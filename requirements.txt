@@ -1,0 +1,6 @@
+numpy
+nltk
+networkx
+matplotlib
+python-louvain
+streamlit

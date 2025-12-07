@@ -1,0 +1,1736 @@
+{
+  "chosen": {
+    "walk": 2,
+    "path": 2
+  },
+  "walk": {
+    "chosen": 2,
+    "path": 2,
+    "first": 2,
+    "teach": 2,
+    "danger": 2,
+    "steady": 2,
+    "strength": 2,
+    "knew": 2,
+    "distort": 2,
+    "sand": 2,
+    "feel": 2,
+    "force": 2,
+    "feet": 2,
+    "away": 2,
+    "slowly": 2
+  },
+  "path": {
+    "chosen": 2,
+    "walk": 2,
+    "first": 2,
+    "peaceful": 2,
+    "untouch": 2,
+    "green": 2,
+    "end": 2,
+    "gently": 2
+  },
+  "first": {
+    "walk": 2,
+    "path": 2,
+    "peaceful": 2,
+    "lin": 2
+  },
+  "teach": {
+    "walk": 2,
+    "feel": 2,
+    "world": 2,
+    "danger": 2
+  },
+  "danger": {
+    "walk": 2,
+    "world": 2,
+    "teach": 2,
+    "steady": 2
+  },
+  "steady": {
+    "walk": 2,
+    "danger": 2,
+    "strength": 2,
+    "unwaver": 2
+  },
+  "strength": {
+    "walk": 2,
+    "steady": 2,
+    "unwaver": 2,
+    "purpose": 2
+  },
+  "knew": {
+    "walk": 2,
+    "love": 2,
+    "even": 2,
+    "distort": 2
+  },
+  "distort": {
+    "walk": 2,
+    "even": 2,
+    "knew": 2,
+    "sand": 2
+  },
+  "sand": {
+    "walk": 2,
+    "feel": 2,
+    "distort": 2,
+    "alive": 2,
+    "beneath": 2,
+    "entire": 2,
+    "network": 2
+  },
+  "feel": {
+    "walk": 2,
+    "bath": 2,
+    "green": 2,
+    "like": 6,
+    "park": 2,
+    "kind": 2,
+    "child": 2,
+    "world": 2,
+    "teach": 2,
+    "yellow": 2,
+    "sandy": 2,
+    "another": 2,
+    "pull": 2,
+    "heart": 4,
+    "its": 2,
+    "call": 2,
+    "sand": 2,
+    "alive": 2,
+    "beneath": 2,
+    "afraid": 2,
+    "griev": 2
+  },
+  "force": {
+    "walk": 2,
+    "road": 2,
+    "that": 2,
+    "feet": 2
+  },
+  "feet": {
+    "walk": 2,
+    "road": 2,
+    "that": 2,
+    "force": 2,
+    "away": 2,
+    "place": 2,
+    "unwill": 2,
+    "return": 2
+  },
+  "away": {
+    "walk": 2,
+    "feet": 2,
+    "slowly": 2,
+    "cautiously": 2
+  },
+  "slowly": {
+    "walk": 2,
+    "away": 2,
+    "cautiously": 2,
+    "torn": 2
+  },
+  "peaceful": {
+    "path": 2,
+    "first": 2,
+    "lin": 2,
+    "tre": 2
+  },
+  "untouch": {
+    "path": 2,
+    "green": 2,
+    "of": 2,
+    "pas": 2
+  },
+  "green": {
+    "path": 2,
+    "gra": 2,
+    "bath": 2,
+    "feel": 2,
+    "like": 2,
+    "pas": 2,
+    "untouch": 2,
+    "end": 2
+  },
+  "end": {
+    "path": 2,
+    "green": 2,
+    "gently": 2,
+    "come": 2
+  },
+  "gently": {
+    "path": 2,
+    "caught": 2,
+    "end": 2,
+    "come": 2,
+    "second": 2,
+    "itself": 2,
+    "pul": 2,
+    "reach": 2,
+    "upward": 2,
+    "greater": 2,
+    "approach": 2,
+    "whisper": 2,
+    "love": 2,
+    "dr": 2,
+    "sway": 2,
+    "wind": 2
+  },
+  "lin": {
+    "first": 2,
+    "peaceful": 2,
+    "tre": 2,
+    "gra": 2,
+    "wood": 2,
+    "fabric": 2,
+    "road": 2,
+    "like": 2,
+    "cloth": 2,
+    "hung": 2,
+    "fad": 2,
+    "hollow": 2
+  },
+  "tre": {
+    "peaceful": 2,
+    "lin": 2,
+    "gra": 2,
+    "bath": 2
+  },
+  "gra": {
+    "lin": 2,
+    "tre": 2,
+    "bath": 2,
+    "green": 2,
+    "mov": 2,
+    "nestl": 2,
+    "saw": 2,
+    "baby": 2
+  },
+  "wood": {
+    "lin": 2,
+    "of": 2,
+    "scrap": 2,
+    "fabric": 2
+  },
+  "fabric": {
+    "lin": 2,
+    "road": 2,
+    "of": 2,
+    "wood": 2
+  },
+  "road": {
+    "lin": 2,
+    "like": 2,
+    "park": 2,
+    "gentle": 2,
+    "forgotten": 4,
+    "time": 2,
+    "chang": 2,
+    "thi": 2,
+    "belong": 2,
+    "different": 2,
+    "of": 4,
+    "that": 2,
+    "force": 2,
+    "feet": 2,
+    "look": 2,
+    "toward": 2,
+    "short": 2,
+    "distance": 2,
+    "fabric": 2,
+    "edge": 2,
+    "heart": 2,
+    "buri": 2
+  },
+  "like": {
+    "lin": 2,
+    "green": 2,
+    "feel": 6,
+    "park": 2,
+    "gentle": 2,
+    "strange": 2,
+    "dance": 2,
+    "try": 2,
+    "scare": 2,
+    "sandy": 2,
+    "another": 2,
+    "world": 2,
+    "remain": 2,
+    "voice": 2,
+    "wind": 2,
+    "twilight": 2,
+    "griev": 2,
+    "heart": 2,
+    "swallow": 2,
+    "road": 2,
+    "forgotten": 2,
+    "relic": 2
+  },
+  "cloth": {
+    "lin": 2,
+    "relic": 2,
+    "old": 2,
+    "hung": 2
+  },
+  "hung": {
+    "lin": 2,
+    "old": 2,
+    "cloth": 2,
+    "fad": 2
+  },
+  "fad": {
+    "lin": 2,
+    "hung": 2,
+    "hollow": 2,
+    "white": 2
+  },
+  "hollow": {
+    "lin": 2,
+    "fad": 2,
+    "white": 2,
+    "dr": 2
+  },
+  "bath": {
+    "tre": 2,
+    "gra": 2,
+    "green": 2,
+    "feel": 2
+  },
+  "mov": {
+    "gra": 2,
+    "caught": 2,
+    "crush": 2,
+    "nestl": 2,
+    "freely": 2,
+    "effortlessly": 2,
+    "toward": 2,
+    "roof": 2
+  },
+  "nestl": {
+    "gra": 2,
+    "crush": 2,
+    "mov": 2,
+    "saw": 2
+  },
+  "saw": {
+    "gra": 2,
+    "nestl": 2,
+    "baby": 2,
+    "crocodile": 2,
+    "presence": 2,
+    "undeniable": 2,
+    "short": 2,
+    "distance": 2,
+    "clearly": 2,
+    "place": 2
+  },
+  "baby": {
+    "gra": 2,
+    "saw": 2,
+    "crocodile": 2,
+    "real": 2
+  },
+  "pas": {
+    "green": 2,
+    "absurdity": 2,
+    "of": 2,
+    "untouch": 2
+  },
+  "park": {
+    "feel": 2,
+    "like": 2,
+    "gentle": 2,
+    "road": 2
+  },
+  "kind": {
+    "feel": 2,
+    "quiet": 2,
+    "joy": 2,
+    "child": 2
+  },
+  "child": {
+    "feel": 2,
+    "joy": 2,
+    "kind": 2,
+    "world": 2
+  },
+  "world": {
+    "feel": 2,
+    "like": 2,
+    "child": 2,
+    "teach": 2,
+    "danger": 2,
+    "another": 2,
+    "sure": 2,
+    "chang": 2
+  },
+  "yellow": {
+    "feel": 2,
+    "second": 2,
+    "dry": 2,
+    "sandy": 2
+  },
+  "sandy": {
+    "feel": 2,
+    "like": 2,
+    "dry": 2,
+    "yellow": 2
+  },
+  "another": {
+    "feel": 2,
+    "like": 2,
+    "world": 2,
+    "sure": 2
+  },
+  "pull": {
+    "feel": 2,
+    "pollut": 2,
+    "maybe": 2,
+    "heart": 2
+  },
+  "heart": {
+    "feel": 4,
+    "like": 2,
+    "road": 2,
+    "its": 2,
+    "of": 2,
+    "maybe": 2,
+    "pull": 2,
+    "swallow": 2,
+    "those": 2,
+    "obey": 2,
+    "leave": 2,
+    "buri": 4,
+    "belly": 2,
+    "that": 2
+  },
+  "its": {
+    "feel": 2,
+    "threat": 2,
+    "real": 2,
+    "small": 2,
+    "body": 2,
+    "heart": 2,
+    "call": 2,
+    "paradox": 2,
+    "coil": 2,
+    "sleep": 2,
+    "presence": 2,
+    "undeniable": 2
+  },
+  "call": {
+    "feel": 2,
+    "its": 2,
+    "of": 2,
+    "paradox": 2
+  },
+  "alive": {
+    "feel": 2,
+    "sand": 2,
+    "beneath": 2,
+    "ground": 2
+  },
+  "beneath": {
+    "feel": 2,
+    "sand": 2,
+    "alive": 2,
+    "ground": 2,
+    "massive": 2,
+    "entire": 2,
+    "awaken": 2,
+    "li": 2,
+    "look": 2,
+    "see": 2
+  },
+  "afraid": {
+    "feel": 2,
+    "awaren": 2,
+    "wak": 2,
+    "griev": 2
+  },
+  "griev": {
+    "feel": 2,
+    "like": 2,
+    "wak": 2,
+    "afraid": 2
+  },
+  "gentle": {
+    "like": 2,
+    "park": 2,
+    "road": 2,
+    "forgotten": 2
+  },
+  "strange": {
+    "like": 2,
+    "body": 2,
+    "twist": 2,
+    "dance": 2
+  },
+  "dance": {
+    "like": 2,
+    "try": 2,
+    "twist": 2,
+    "strange": 2
+  },
+  "try": {
+    "like": 2,
+    "softly": 2,
+    "hand": 2,
+    "bite": 2,
+    "didn": 2,
+    "dance": 2,
+    "scare": 2,
+    "wir": 2
+  },
+  "scare": {
+    "like": 2,
+    "fear": 2,
+    "try": 2,
+    "wir": 2
+  },
+  "remain": {
+    "like": 2,
+    "build": 2,
+    "free": 2,
+    "voice": 2
+  },
+  "voice": {
+    "like": 2,
+    "wind": 2,
+    "free": 2,
+    "remain": 2
+  },
+  "wind": {
+    "like": 2,
+    "caught": 2,
+    "gently": 2,
+    "endl": 2,
+    "stair": 2,
+    "upward": 2,
+    "climb": 2,
+    "voice": 2,
+    "twilight": 2,
+    "repli": 2,
+    "sway": 2,
+    "breath": 2
+  },
+  "twilight": {
+    "like": 2,
+    "wind": 2,
+    "repli": 2,
+    "know": 2
+  },
+  "swallow": {
+    "like": 2,
+    "heart": 2,
+    "those": 2,
+    "same": 2
+  },
+  "forgotten": {
+    "like": 2,
+    "gentle": 2,
+    "road": 4,
+    "time": 2,
+    "fear": 2,
+    "relic": 2,
+    "old": 2
+  },
+  "relic": {
+    "like": 2,
+    "forgotten": 2,
+    "old": 2,
+    "cloth": 2
+  },
+  "time": {
+    "road": 2,
+    "forgotten": 2,
+    "fear": 2,
+    "threat": 2
+  },
+  "chang": {
+    "road": 2,
+    "world": 2,
+    "sure": 2,
+    "thi": 2
+  },
+  "thi": {
+    "road": 2,
+    "sure": 2,
+    "chang": 2,
+    "belong": 2
+  },
+  "belong": {
+    "road": 2,
+    "thi": 2,
+    "different": 2,
+    "reality": 2
+  },
+  "different": {
+    "road": 2,
+    "belong": 2,
+    "reality": 2,
+    "altogether": 2
+  },
+  "of": {
+    "road": 4,
+    "smil": 2,
+    "absurdity": 2,
+    "pas": 2,
+    "untouch": 2,
+    "call": 2,
+    "paradox": 2,
+    "deep": 2,
+    "familiar": 2,
+    "entire": 2,
+    "network": 2,
+    "giant": 2,
+    "serpent": 2,
+    "buri": 2,
+    "belly": 2,
+    "that": 2,
+    "built": 2,
+    "scrap": 2,
+    "wood": 2,
+    "fabric": 2,
+    "frozen": 2,
+    "edge": 2,
+    "heart": 2
+  },
+  "that": {
+    "road": 2,
+    "of": 2,
+    "heart": 2,
+    "silent": 2,
+    "knowledge": 2,
+    "meant": 2,
+    "reach": 2,
+    "open": 2,
+    "door": 2,
+    "led": 2,
+    "rooftop": 2,
+    "ey": 2,
+    "fill": 2,
+    "impossible": 2,
+    "blend": 2,
+    "belly": 2,
+    "force": 2,
+    "buri": 2,
+    "place": 2,
+    "feet": 2
+  },
+  "look": {
+    "road": 2,
+    "deep": 2,
+    "even": 2,
+    "beneath": 2,
+    "toward": 2,
+    "know": 2,
+    "stepp": 2,
+    "back": 2,
+    "enough": 2,
+    "li": 2,
+    "see": 2,
+    "cannot": 2
+  },
+  "toward": {
+    "road": 2,
+    "mov": 2,
+    "effortlessly": 2,
+    "roof": 2,
+    "step": 2,
+    "back": 2,
+    "look": 2,
+    "short": 2
+  },
+  "short": {
+    "road": 2,
+    "saw": 2,
+    "toward": 2,
+    "distance": 2
+  },
+  "distance": {
+    "road": 2,
+    "saw": 2,
+    "short": 2,
+    "clearly": 2
+  },
+  "edge": {
+    "road": 2,
+    "of": 2,
+    "sitt": 2,
+    "quietly": 2,
+    "star": 2,
+    "sky": 2,
+    "stood": 2,
+    "frozen": 2
+  },
+  "buri": {
+    "road": 2,
+    "of": 2,
+    "heart": 4,
+    "that": 2,
+    "leave": 2,
+    "belly": 2,
+    "place": 2
+  },
+  "fear": {
+    "forgotten": 2,
+    "time": 2,
+    "threat": 2,
+    "quiet": 2,
+    "scare": 2,
+    "wir": 2,
+    "smil": 2,
+    "absurdity": 2,
+    "ascend": 2,
+    "resistance": 2,
+    "silent": 2,
+    "knowledge": 2
+  },
+  "old": {
+    "forgotten": 2,
+    "relic": 2,
+    "cloth": 2,
+    "hung": 2
+  },
+  "threat": {
+    "time": 2,
+    "fear": 2,
+    "quiet": 2,
+    "joy": 2,
+    "crocodile": 2,
+    "real": 2,
+    "its": 2,
+    "small": 2
+  },
+  "quiet": {
+    "fear": 2,
+    "threat": 2,
+    "joy": 2,
+    "kind": 2
+  },
+  "wir": {
+    "fear": 2,
+    "try": 2,
+    "scare": 2,
+    "smil": 2
+  },
+  "smil": {
+    "fear": 2,
+    "wir": 2,
+    "absurdity": 2,
+    "of": 2
+  },
+  "absurdity": {
+    "fear": 2,
+    "smil": 2,
+    "of": 2,
+    "pas": 2
+  },
+  "ascend": {
+    "fear": 2,
+    "step": 4,
+    "resistance": 2
+  },
+  "resistance": {
+    "fear": 2,
+    "step": 2,
+    "ascend": 2,
+    "silent": 2
+  },
+  "silent": {
+    "fear": 2,
+    "deep": 2,
+    "sleep": 2,
+    "inside": 2,
+    "resistance": 2,
+    "knowledge": 2,
+    "that": 2,
+    "melancholy": 2,
+    "serenity": 2,
+    "ache": 2,
+    "serpent": 2,
+    "know": 2
+  },
+  "knowledge": {
+    "fear": 2,
+    "silent": 2,
+    "that": 2,
+    "meant": 2
+  },
+  "joy": {
+    "threat": 2,
+    "quiet": 2,
+    "kind": 2,
+    "child": 2
+  },
+  "crocodile": {
+    "threat": 2,
+    "saw": 2,
+    "baby": 2,
+    "real": 2
+  },
+  "real": {
+    "threat": 2,
+    "baby": 2,
+    "crocodile": 2,
+    "its": 2
+  },
+  "small": {
+    "threat": 2,
+    "its": 2,
+    "body": 2,
+    "twist": 2
+  },
+  "sure": {
+    "world": 2,
+    "another": 2,
+    "chang": 2,
+    "thi": 2
+  },
+  "unwaver": {
+    "steady": 2,
+    "strength": 2,
+    "purpose": 2,
+    "insect": 2
+  },
+  "purpose": {
+    "strength": 2,
+    "unwaver": 2,
+    "insect": 2,
+    "hover": 2
+  },
+  "insect": {
+    "unwaver": 2,
+    "purpose": 2,
+    "hover": 2,
+    "air": 2
+  },
+  "hover": {
+    "purpose": 2,
+    "insect": 2,
+    "air": 2,
+    "land": 2
+  },
+  "air": {
+    "insect": 2,
+    "hover": 2,
+    "land": 2,
+    "softly": 2,
+    "reality": 2,
+    "altogether": 2,
+    "heavier": 2,
+    "dense": 2
+  },
+  "land": {
+    "hover": 2,
+    "air": 2,
+    "softly": 2,
+    "hand": 2
+  },
+  "softly": {
+    "air": 2,
+    "land": 2,
+    "hand": 2,
+    "try": 2
+  },
+  "reality": {
+    "air": 2,
+    "belong": 2,
+    "different": 2,
+    "altogether": 2
+  },
+  "altogether": {
+    "air": 2,
+    "different": 2,
+    "reality": 2,
+    "heavier": 2
+  },
+  "heavier": {
+    "air": 2,
+    "altogether": 2,
+    "dense": 2,
+    "pollut": 2
+  },
+  "dense": {
+    "air": 2,
+    "heavier": 2,
+    "pollut": 2,
+    "maybe": 2
+  },
+  "hand": {
+    "land": 2,
+    "softly": 2,
+    "try": 2,
+    "bite": 2
+  },
+  "bite": {
+    "hand": 2,
+    "try": 2,
+    "didn": 2,
+    "disturb": 2
+  },
+  "didn": {
+    "try": 2,
+    "bite": 2,
+    "disturb": 2,
+    "calmly": 2
+  },
+  "disturb": {
+    "bite": 2,
+    "didn": 2,
+    "calmly": 2,
+    "caught": 2,
+    "wonder": 2,
+    "live": 2,
+    "serpent": 2,
+    "even": 2
+  },
+  "calmly": {
+    "didn": 2,
+    "disturb": 2,
+    "caught": 2,
+    "crush": 2
+  },
+  "caught": {
+    "disturb": 2,
+    "calmly": 2,
+    "crush": 2,
+    "mov": 2,
+    "gently": 2,
+    "wind": 2,
+    "breath": 2,
+    "wonder": 2
+  },
+  "wonder": {
+    "disturb": 2,
+    "caught": 2,
+    "breath": 2,
+    "live": 2
+  },
+  "live": {
+    "disturb": 2,
+    "serpent": 2,
+    "breath": 2,
+    "wonder": 2
+  },
+  "serpent": {
+    "disturb": 2,
+    "of": 2,
+    "even": 2,
+    "sleep": 2,
+    "silent": 2,
+    "know": 4,
+    "giant": 2,
+    "lay": 2,
+    "hidden": 2,
+    "same": 2,
+    "live": 2
+  },
+  "even": {
+    "disturb": 2,
+    "familiar": 2,
+    "love": 2,
+    "knew": 2,
+    "distort": 2,
+    "repli": 2,
+    "know": 4,
+    "desperately": 2,
+    "desire": 2,
+    "serpent": 2,
+    "look": 2
+  },
+  "crush": {
+    "calmly": 2,
+    "caught": 2,
+    "mov": 2,
+    "nestl": 2
+  },
+  "breath": {
+    "caught": 2,
+    "wind": 2,
+    "wonder": 2,
+    "live": 2
+  },
+  "freely": {
+    "mov": 2,
+    "upward": 2,
+    "climb": 2,
+    "effortlessly": 2
+  },
+  "effortlessly": {
+    "mov": 2,
+    "climb": 2,
+    "freely": 2,
+    "toward": 2
+  },
+  "roof": {
+    "mov": 2,
+    "toward": 2,
+    "step": 4
+  },
+  "presence": {
+    "saw": 2,
+    "its": 2,
+    "sleep": 2,
+    "undeniable": 2,
+    "dormant": 2,
+    "wait": 2,
+    "energy": 2,
+    "awaren": 2
+  },
+  "undeniable": {
+    "saw": 2,
+    "its": 2,
+    "presence": 2
+  },
+  "clearly": {
+    "saw": 2,
+    "distance": 2,
+    "place": 2,
+    "liv": 2
+  },
+  "place": {
+    "saw": 2,
+    "that": 2,
+    "buri": 2,
+    "feet": 2,
+    "clearly": 2,
+    "liv": 2,
+    "fragile": 2,
+    "unwill": 2
+  },
+  "body": {
+    "its": 2,
+    "small": 2,
+    "twist": 2,
+    "strange": 2
+  },
+  "paradox": {
+    "its": 2,
+    "of": 2,
+    "call": 2,
+    "deep": 2
+  },
+  "coil": {
+    "its": 2,
+    "ground": 2,
+    "massive": 2,
+    "sleep": 2
+  },
+  "sleep": {
+    "its": 2,
+    "massive": 2,
+    "coil": 2,
+    "presence": 2,
+    "those": 2,
+    "same": 2,
+    "serpent": 2,
+    "silent": 2
+  },
+  "twist": {
+    "small": 2,
+    "body": 2,
+    "strange": 2,
+    "dance": 2
+  },
+  "deep": {
+    "of": 2,
+    "paradox": 2,
+    "familiar": 2,
+    "love": 2,
+    "violet": 2,
+    "ting": 2,
+    "blue": 2,
+    "indistinguishable": 2,
+    "silent": 2,
+    "ache": 2,
+    "acceptance": 2,
+    "long": 2,
+    "know": 2,
+    "look": 2,
+    "enough": 2,
+    "awaken": 2
+  },
+  "familiar": {
+    "of": 2,
+    "deep": 2,
+    "love": 2,
+    "even": 2
+  },
+  "entire": {
+    "of": 2,
+    "sand": 2,
+    "beneath": 2,
+    "network": 2
+  },
+  "network": {
+    "of": 2,
+    "sand": 2,
+    "entire": 2,
+    "giant": 2
+  },
+  "giant": {
+    "of": 2,
+    "network": 2,
+    "serpent": 2,
+    "lay": 2
+  },
+  "belly": {
+    "of": 2,
+    "heart": 2,
+    "that": 2,
+    "buri": 2
+  },
+  "built": {
+    "of": 2,
+    "fragile": 2,
+    "hom": 2,
+    "scrap": 2
+  },
+  "scrap": {
+    "of": 2,
+    "hom": 2,
+    "built": 2,
+    "wood": 2
+  },
+  "frozen": {
+    "of": 2,
+    "edge": 2,
+    "unsee": 2,
+    "stood": 2
+  },
+  "come": {
+    "end": 2,
+    "gently": 2,
+    "second": 2,
+    "dry": 2
+  },
+  "second": {
+    "gently": 2,
+    "come": 2,
+    "dry": 2,
+    "yellow": 2
+  },
+  "itself": {
+    "gently": 2,
+    "sky": 2,
+    "indistinguishable": 2,
+    "pul": 2
+  },
+  "pul": {
+    "gently": 2,
+    "reach": 2,
+    "sky": 2,
+    "itself": 2
+  },
+  "reach": {
+    "gently": 2,
+    "upward": 2,
+    "that": 2,
+    "meant": 2,
+    "top": 2,
+    "last": 2,
+    "pul": 2,
+    "soul": 2
+  },
+  "upward": {
+    "gently": 2,
+    "stair": 2,
+    "wind": 2,
+    "climb": 2,
+    "freely": 2,
+    "reach": 2,
+    "soul": 2,
+    "conversation": 2
+  },
+  "greater": {
+    "gently": 2,
+    "maybe": 2,
+    "lost": 2,
+    "approach": 2
+  },
+  "approach": {
+    "gently": 2,
+    "lost": 2,
+    "greater": 2,
+    "whisper": 2
+  },
+  "whisper": {
+    "gently": 2,
+    "love": 2,
+    "inside": 2,
+    "approach": 2,
+    "turn": 2,
+    "know": 2,
+    "leave": 2,
+    "choice": 2
+  },
+  "love": {
+    "gently": 2,
+    "deep": 2,
+    "familiar": 2,
+    "even": 2,
+    "knew": 2,
+    "whisper": 2,
+    "turn": 2,
+    "ey": 2
+  },
+  "dr": {
+    "gently": 2,
+    "hollow": 2,
+    "white": 2,
+    "sway": 2
+  },
+  "sway": {
+    "gently": 2,
+    "wind": 2,
+    "white": 2,
+    "dr": 2
+  },
+  "dry": {
+    "come": 2,
+    "second": 2,
+    "yellow": 2,
+    "sandy": 2
+  },
+  "pollut": {
+    "heavier": 2,
+    "dense": 2,
+    "maybe": 2,
+    "pull": 2
+  },
+  "maybe": {
+    "dense": 2,
+    "pollut": 2,
+    "pull": 2,
+    "heart": 2,
+    "infinite": 2,
+    "notic": 2,
+    "lost": 2,
+    "greater": 2
+  },
+  "infinite": {
+    "maybe": 2,
+    "yearn": 2,
+    "dissolve": 2,
+    "notic": 2
+  },
+  "notic": {
+    "maybe": 2,
+    "dissolve": 2,
+    "infinite": 2,
+    "lost": 2
+  },
+  "lost": {
+    "maybe": 2,
+    "notic": 2,
+    "greater": 2,
+    "approach": 2
+  },
+  "those": {
+    "heart": 2,
+    "sleep": 2,
+    "swallow": 2,
+    "same": 2
+  },
+  "obey": {
+    "heart": 2,
+    "leave": 4,
+    "choice": 2
+  },
+  "leave": {
+    "heart": 2,
+    "inside": 2,
+    "build": 2,
+    "sky": 2,
+    "whisper": 2,
+    "fly": 2,
+    "free": 2,
+    "choice": 4,
+    "obey": 4,
+    "buri": 2
+  },
+  "violet": {
+    "deep": 2,
+    "shimmer": 2,
+    "luminou": 2,
+    "ting": 2
+  },
+  "ting": {
+    "deep": 2,
+    "luminou": 2,
+    "violet": 2,
+    "blue": 2
+  },
+  "blue": {
+    "deep": 2,
+    "sky": 2,
+    "ting": 2,
+    "indistinguishable": 2
+  },
+  "indistinguishable": {
+    "deep": 2,
+    "sky": 2,
+    "blue": 2,
+    "itself": 2
+  },
+  "ache": {
+    "deep": 2,
+    "silent": 2,
+    "serenity": 2,
+    "acceptance": 2
+  },
+  "acceptance": {
+    "deep": 2,
+    "ache": 2,
+    "long": 2,
+    "fly": 2
+  },
+  "long": {
+    "deep": 2,
+    "sky": 2,
+    "acceptance": 2,
+    "fly": 2
+  },
+  "know": {
+    "deep": 2,
+    "even": 4,
+    "inside": 2,
+    "silent": 2,
+    "whisper": 2,
+    "twilight": 2,
+    "repli": 2,
+    "desperately": 2,
+    "serpent": 4,
+    "look": 2
+  },
+  "enough": {
+    "deep": 2,
+    "look": 2,
+    "awaken": 2,
+    "li": 2
+  },
+  "awaken": {
+    "deep": 2,
+    "beneath": 2,
+    "enough": 2,
+    "li": 2
+  },
+  "turn": {
+    "love": 2,
+    "whisper": 2,
+    "ey": 2,
+    "fill": 2
+  },
+  "ey": {
+    "love": 2,
+    "that": 2,
+    "turn": 2,
+    "fill": 2
+  },
+  "repli": {
+    "even": 2,
+    "wind": 2,
+    "twilight": 2,
+    "know": 2
+  },
+  "desperately": {
+    "even": 2,
+    "know": 2,
+    "desire": 2
+  },
+  "desire": {
+    "even": 2,
+    "desperately": 2
+  },
+  "ground": {
+    "alive": 2,
+    "beneath": 2,
+    "massive": 2,
+    "coil": 2
+  },
+  "massive": {
+    "beneath": 2,
+    "ground": 2,
+    "coil": 2,
+    "sleep": 2
+  },
+  "li": {
+    "beneath": 2,
+    "look": 2,
+    "enough": 2,
+    "awaken": 2
+  },
+  "see": {
+    "beneath": 2,
+    "look": 2,
+    "cannot": 2,
+    "unsee": 2
+  },
+  "same": {
+    "sleep": 2,
+    "serpent": 2,
+    "swallow": 2,
+    "those": 2
+  },
+  "dormant": {
+    "presence": 2,
+    "lay": 2,
+    "hidden": 2,
+    "wait": 2
+  },
+  "wait": {
+    "presence": 2,
+    "hidden": 2,
+    "dormant": 2,
+    "energy": 2
+  },
+  "energy": {
+    "presence": 2,
+    "wait": 2,
+    "awaren": 2,
+    "wak": 2
+  },
+  "awaren": {
+    "presence": 2,
+    "energy": 2,
+    "wak": 2,
+    "afraid": 2
+  },
+  "found": {
+    "myself": 2,
+    "inside": 2
+  },
+  "myself": {
+    "found": 2,
+    "inside": 2,
+    "build": 2
+  },
+  "inside": {
+    "found": 2,
+    "myself": 2,
+    "build": 2,
+    "endl": 2,
+    "silent": 2,
+    "know": 2,
+    "whisper": 2,
+    "leave": 2
+  },
+  "build": {
+    "myself": 2,
+    "inside": 2,
+    "endl": 2,
+    "stair": 2,
+    "sky": 2,
+    "leave": 2,
+    "free": 2,
+    "remain": 2
+  },
+  "endl": {
+    "inside": 2,
+    "build": 2,
+    "stair": 2,
+    "wind": 2
+  },
+  "stair": {
+    "build": 2,
+    "endl": 2,
+    "wind": 2,
+    "upward": 2
+  },
+  "sky": {
+    "build": 2,
+    "edge": 2,
+    "star": 2,
+    "aura": 2,
+    "shimmer": 2,
+    "blue": 2,
+    "indistinguishable": 2,
+    "itself": 2,
+    "pul": 2,
+    "long": 2,
+    "fly": 2,
+    "leave": 2
+  },
+  "free": {
+    "build": 2,
+    "leave": 2,
+    "remain": 2,
+    "voice": 2
+  },
+  "climb": {
+    "wind": 2,
+    "upward": 2,
+    "freely": 2,
+    "effortlessly": 2
+  },
+  "soul": {
+    "upward": 2,
+    "reach": 2,
+    "conversation": 2,
+    "cosmo": 2
+  },
+  "conversation": {
+    "upward": 2,
+    "soul": 2,
+    "cosmo": 2,
+    "yearn": 2
+  },
+  "step": {
+    "toward": 2,
+    "roof": 4,
+    "ascend": 4,
+    "resistance": 2
+  },
+  "back": {
+    "toward": 2,
+    "torn": 2,
+    "stepp": 2,
+    "look": 2
+  },
+  "melancholy": {
+    "silent": 2,
+    "impossible": 2,
+    "blend": 2,
+    "serenity": 2
+  },
+  "serenity": {
+    "silent": 2,
+    "blend": 2,
+    "melancholy": 2,
+    "ache": 2
+  },
+  "meant": {
+    "knowledge": 2,
+    "that": 2,
+    "reach": 2,
+    "top": 2
+  },
+  "open": {
+    "that": 2,
+    "top": 2,
+    "last": 2,
+    "door": 2
+  },
+  "door": {
+    "that": 2,
+    "last": 2,
+    "open": 2,
+    "led": 2
+  },
+  "led": {
+    "that": 2,
+    "door": 2,
+    "rooftop": 2,
+    "balcony": 2
+  },
+  "rooftop": {
+    "that": 2,
+    "led": 2,
+    "balcony": 2,
+    "lover": 2
+  },
+  "fill": {
+    "that": 2,
+    "turn": 2,
+    "ey": 2,
+    "impossible": 2
+  },
+  "impossible": {
+    "that": 2,
+    "fill": 2,
+    "blend": 2,
+    "melancholy": 2
+  },
+  "blend": {
+    "that": 2,
+    "impossible": 2,
+    "melancholy": 2,
+    "serenity": 2
+  },
+  "top": {
+    "meant": 2,
+    "reach": 2,
+    "last": 2,
+    "open": 2
+  },
+  "last": {
+    "reach": 2,
+    "top": 2,
+    "open": 2,
+    "door": 2
+  },
+  "balcony": {
+    "led": 2,
+    "rooftop": 2,
+    "lover": 2,
+    "radiant": 2
+  },
+  "lover": {
+    "rooftop": 2,
+    "balcony": 2,
+    "radiant": 2,
+    "sitt": 2
+  },
+  "radiant": {
+    "balcony": 2,
+    "lover": 2,
+    "sitt": 2,
+    "quietly": 2
+  },
+  "sitt": {
+    "lover": 2,
+    "radiant": 2,
+    "quietly": 2,
+    "edge": 2
+  },
+  "quietly": {
+    "radiant": 2,
+    "sitt": 2,
+    "edge": 2,
+    "star": 2
+  },
+  "star": {
+    "quietly": 2,
+    "edge": 2,
+    "sky": 2,
+    "aura": 2
+  },
+  "stood": {
+    "edge": 2,
+    "cannot": 2,
+    "unsee": 2,
+    "frozen": 2
+  },
+  "aura": {
+    "star": 2,
+    "sky": 2,
+    "shimmer": 2,
+    "luminou": 2
+  },
+  "shimmer": {
+    "sky": 2,
+    "aura": 2,
+    "luminou": 2,
+    "violet": 2
+  },
+  "fly": {
+    "sky": 2,
+    "acceptance": 2,
+    "long": 2,
+    "leave": 2
+  },
+  "luminou": {
+    "aura": 2,
+    "shimmer": 2,
+    "violet": 2,
+    "ting": 2
+  },
+  "cosmo": {
+    "soul": 2,
+    "conversation": 2,
+    "yearn": 2,
+    "dissolve": 2
+  },
+  "yearn": {
+    "conversation": 2,
+    "cosmo": 2,
+    "dissolve": 2,
+    "infinite": 2
+  },
+  "dissolve": {
+    "cosmo": 2,
+    "yearn": 2,
+    "infinite": 2,
+    "notic": 2
+  },
+  "choice": {
+    "whisper": 2,
+    "leave": 4,
+    "obey": 2
+  },
+  "lay": {
+    "giant": 2,
+    "serpent": 2,
+    "hidden": 2,
+    "dormant": 2
+  },
+  "hidden": {
+    "serpent": 2,
+    "lay": 2,
+    "dormant": 2,
+    "wait": 2
+  },
+  "wak": {
+    "energy": 2,
+    "awaren": 2,
+    "afraid": 2,
+    "griev": 2
+  },
+  "unwill": {
+    "feet": 2,
+    "place": 2,
+    "return": 2
+  },
+  "return": {
+    "feet": 2,
+    "unwill": 2
+  },
+  "cautiously": {
+    "away": 2,
+    "slowly": 2,
+    "torn": 2,
+    "stepp": 2
+  },
+  "torn": {
+    "slowly": 2,
+    "cautiously": 2,
+    "stepp": 2,
+    "back": 2
+  },
+  "stepp": {
+    "cautiously": 2,
+    "torn": 2,
+    "back": 2,
+    "look": 2
+  },
+  "cannot": {
+    "look": 2,
+    "see": 2,
+    "unsee": 2,
+    "stood": 2
+  },
+  "liv": {
+    "clearly": 2,
+    "place": 2,
+    "fragile": 2,
+    "hom": 2
+  },
+  "fragile": {
+    "place": 2,
+    "liv": 2,
+    "hom": 2,
+    "built": 2
+  },
+  "hom": {
+    "liv": 2,
+    "fragile": 2,
+    "built": 2,
+    "scrap": 2
+  },
+  "white": {
+    "fad": 2,
+    "hollow": 2,
+    "dr": 2,
+    "sway": 2
+  },
+  "unsee": {
+    "see": 2,
+    "cannot": 2,
+    "stood": 2,
+    "frozen": 2
+  }
+}
